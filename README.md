@@ -1,7 +1,7 @@
 # Propósito do repositório
 Disponibilizar os scripts utilizados para processar informações relacionados aos casos positivos e óbitos causados pelo vírus Sars-Cov-2 no estado de SP.
 
-Os scripts que foram criados para obter de forma automatizada os dados do covid-19 do repositório do Github do SEADE (Fundação Sistema Estadual de Análise de Dados).
+Os scripts foram criados para obter de forma automatizada os dados do covid-19 do repositório do Github do SEADE (Fundação Sistema Estadual de Análise de Dados).
 https://github.com/seade-R/dados-covid-sp/
 
 # Pré-requisitos
